@@ -50,7 +50,7 @@ It also includes a real-time clock display and an optional sound effect that pla
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Bhavin-Patel-dev/Workout-Timer.git
    cd <repo-name>
    ```
 2. **Install dependencies**:
